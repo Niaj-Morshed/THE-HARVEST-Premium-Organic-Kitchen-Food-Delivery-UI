@@ -70,20 +70,6 @@ shopping cart, and a real-time search system, all wrapped in a sophisticated, na
 
 
 
-<img width="1894" height="964" alt="Capture3" src="https://github.com/user-attachments/assets/1117c258-8a13-42a6-9f5f-9d3e65275eab" />
-<img width="1908" height="978" alt="Capture2" src="https://github.com/user-attachments/assets/e3e4e139-ad98-4e3a-86cb-7d0731cfc78e" />
-<img width="1895" height="968" alt="Capture1" src="https://github.com/user-attachments/assets/01c89997-7caa-44b8-8a81-347b8fe8f072" />
-<img width="413" height="889" alt="Capture10" src="https://github.com/user-attachments/assets/70d03345-ed5c-4ed2-aafc-4cc348d7787a" />
-<img width="417" height="888" alt="Capture9" src="https://github.com/user-attachments/assets/13d109cf-8e9e-49d9-a0a1-b1427bab891a" />
-<img width="417" height="886" alt="Capture8" src="https://github.com/user-attachments/assets/c19906c5-24bb-4fde-9169-3f9c13b197c4" />
-<img width="413" height="886" alt="Capture7" src="https://github.com/user-attachments/assets/f0190a4b-fcef-441d-9ee4-fe6e824520f0" />
-<img width="1907" height="977" alt="Capture6" src="https://github.com/user-attachments/assets/942227f9-fcc4-456e-aa20-5e9715865ce4" />
-<img width="1918" height="971" alt="Capture5" src="https://github.com/user-attachments/assets/55947365-5b0d-4435-9d68-c3a776f3944b" />
-<img width="1901" height="965" alt="Capture4" src="https://github.com/user-attachments/assets/2f147070-34ad-4a47-902c-44f7c917afff" />
-
-
-
-
 
 📸 Screenshot:
 ---------------
