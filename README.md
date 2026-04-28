@@ -65,7 +65,7 @@ shopping cart, and a real-time search system, all wrapped in a sophisticated, na
 
 📲 Fully Responsive Architecture:
     * Mobile Optimized: Expertly crafted to provide an app-like experience on small screens.
-    * Touch Friendly: Features floating controls and sliding panels optimized for mobile interaction.
+    * Touch Friendly: Features floating controls and sliding panels optimized for mobile interaction. 
   
 
 
